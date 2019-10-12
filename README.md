@@ -1,2 +1,2 @@
-# Glorious_Sunglass_Store
-Glorious Sunglass Store Website.
+# Glorious_Glass_Store
+Glorious glass Store Website.
